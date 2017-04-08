@@ -1,0 +1,22 @@
+    _________
+   |         |                               
+   |         O                               
+   |        \|/                              
+   |         |                               
+   |                                      
+ __|____________                           
+|__|____________|
+
+Congratulation You Win!!
+
+Word: E A R T H
+
+Guess: H
+Misses: U S M  
+Chances Left: 1
+
+
+Do you want to play again? (y/n): n
+
+Good Bye!! 
+ 

@@ -1,0 +1,54 @@
+
+
+
+    _________
+   |         |                               
+   |                                        
+   |                                      
+   |                                        
+   |                                       
+ __|____________                           
+|__|____________|
+
+Guess: a
+Misses:
+Chances Left: 4
+
+Clue: Name of a movie
+Word: _ _ _ _ _  
+
+    _________
+   |         |                               
+   |                                        
+   |                                      
+   |                                        
+   |                                       
+ __|____________                           
+|__|____________|
+
+Correct!!
+
+Guess: U
+Misses:
+Chances Left: 4 
+
+Clue: Name of a movie
+Word: _ A _ _ _ 
+  
+    _________
+   |         |                               
+   |         O                               
+   |                                      
+   |                                        
+   |                                       
+ __|____________                           
+|__|____________|
+
+Incorrect!!
+
+Guess: A
+Misses: U
+Chances Left: 3
+
+Clue: Name of a movie
+Word: _ A _ _ _ 

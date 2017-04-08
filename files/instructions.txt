@@ -1,0 +1,26 @@
+                  
+                      ***************************** I N S T R U C T I O N S ****************************
+  
+                           1. Choose difficulty level.
+                           2. Easy Level allows you to have 6 chances to guess short letters.
+                           3. Hard Level also allwos you to have 6 chances but long letters to guess.
+                           4. Once game is loaded type guess letter.
+                           5. You can't guess same leter more than once. 
+                           6. Repete Step 5 until game is over. 
+                           7. Once game is over you can enter 'y' to play again or 'n' to exit.
+		   			             
+                                                             O
+                                                            \|/
+                                               Please try not to hang me!!!:'(       
+                                                            / \
+
+                     ********************************** ALL THE BEST ************************************   
+     
+
+                                               * * * * * * * * * * * * * * *  
+                                               *   Please choose Level!!   *
+                                               *                           *
+                                               *        1. Easy            *
+                                               *        2. Hard            * 
+                                               *                           *
+                                               * * * * * * * * * * * * * * *
