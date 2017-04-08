@@ -1,11 +1,8 @@
 
 
 ##  CONSOLE APPLICATION : HangMan.0  Project Overview
-========================================================================
 
-
-
-// Mystery Words
+### Mystery Words
 * **Easy Level**
   - LONDON
   - SYDNEY
@@ -69,18 +66,18 @@
 ### Demonastrations:
 
   * #### Class
-  * #### Memory Managemet  
-   **Application:**  &nbsp;&nbsp; To manage memory of array, in guess.cpp to store user guess.
+  * #### Memory Management  
+  **Application:**  &nbsp;&nbsp; To manage memory of array, in guess.cpp to store user guess.
 
-   **Reason:** &nbsp;&nbsp; Definite length of array cannot be defined during complie time as it totally depends on
+  **Reason:** &nbsp;&nbsp; Definite length of array cannot be defined during complie time as it totally depends on
    player, how many times he/she enters guess letter which includes, correct guess, wrong guess (misses) or repeated guesses. Hence dynamic memory is assign to array m_allGuesses
 
-   **Key Words:** &nbsp;&nbsp; "new", "delete"
+  **Key Words:** &nbsp;&nbsp; "new", "delete"
 
-     **Location:** &nbsp;&nbsp; guess.cpp file , m_allGuess variable in consturctor called Guess()
+  **Location:** &nbsp;&nbsp; guess.cpp file , m_allGuess variable in consturctor called Guess()
 
-### Screen shots of game flow
-   ![Alt](/misc/screen_shots/welcomeScreen.png "Welcome Screen")
+### Game flow Screen shots
+  ![Alt](/misc/screen_shots/welcomeScreen.png "Welcome Screen")
 
   ![Alt](/misc/screen_shots/mainScreen.png "Main screen")
 
