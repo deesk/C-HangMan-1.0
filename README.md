@@ -80,12 +80,8 @@
      **Location:** &nbsp;&nbsp; guess.cpp file , m_allGuess variable in consturctor called Guess()
 
 ### Screen shots of game flow
-  * **Welcome Screen:** ![Alt](/misc/screen_shots/welcomeScreen.png "Welcome Screen")
+   ![Alt](/misc/screen_shots/welcomeScreen.png "Welcome Screen")
 
-
-  * **Main Screen:**
   ![Alt](/misc/screen_shots/mainScreen.png "Main screen")
 
-
-  * **Result Screen:**
   ![Alt](/misc/screen_shots/resultScreen.png "welcome Screen")
