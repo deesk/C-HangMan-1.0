@@ -1,6 +1,6 @@
 
 
-##  CONSOLE APPLICATION : HangMan.0  Project Overview
+##  C++ CONSOLE APPLICATION : HangMan.0  Project Overview
 
 ### Mystery Words
 * **Easy Level**
