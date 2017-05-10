@@ -56,7 +56,7 @@
 *  welcome_screen.cpp
    - print welcome screen
    - print instruction and difficulty level option
-
+   
 
 * words.cpp
   - select random word from array according to difficulty level choosed by player
@@ -67,10 +67,11 @@
 
   * #### Class
   * #### Memory Management  
-  **Application:**  &nbsp;&nbsp; To manage memory of array, in guess.cpp to store user guess.
 
-  **Reason:** &nbsp;&nbsp; Definite length of array cannot be defined during complie time as it totally depends on
-   player, how many times he/she enters guess letter which includes, correct guess, wrong guess (misses) or repeated guesses. Hence dynamic memory is assign to array m_allGuesses
+  * #### Memory Management
+  **Application:**  &nbsp;&nbsp; To manage memory of array in guess.cpp to store user guess.
+
+  **Reason:** &nbsp;&nbsp; Dynamic memory is assign to array ("m_allGuesses") because  Length of array cannot be defined during complie time as it's depends on how many times player has entered guess letters.
 
   **Key Words:** &nbsp;&nbsp; "new", "delete"
 
